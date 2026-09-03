@@ -13,12 +13,12 @@ const NEXT_PART_CODE = "0406";
 const STORAGE_KEY = "diamentowy-testament-" + window.location.pathname;
 
 const QUESTS = [
-  { answerType: "text",   answers: ["a"] },   // Quest 1
-  { answerType: "number", answers: ["2"] },   // Quest 2
-  { answerType: "text",   answers: ["c"] },   // Quest 3
-  { answerType: "number", answers: ["4"] },   // Quest 4
-  { answerType: "text",   answers: ["e"] },   // Quest 5
-  { answerType: "number", answers: ["6"] }    // Quest 6
+  { answerType: "text",   answers: ["0"] },   // Quest 1
+  { answerType: "number", answers: ["9"] },   // Quest 2
+  { answerType: "text",   answers: ["8"] },   // Quest 3
+  { answerType: "number", answers: ["7"] },   // Quest 4
+  { answerType: "text",   answers: ["6"] },   // Quest 5
+  { answerType: "number", answers: ["5"] }    // Quest 6
 ];
 
 const questsContainer = document.querySelector("#quests");
