@@ -10,7 +10,7 @@
   Answers are NOT case-sensitive. Extra spaces and accent marks are ignored.
 */
 
-const NEXT_PART_CODE = "0000"; // <-- CHANGE THE CODE HERE
+const NEXT_PART_CODE = "0406"; // <-- CHANGE THE CODE HERE
 
 const QUESTS = [
   { answerType: "text",   answers: ["answer1"] }, // Quest 1
